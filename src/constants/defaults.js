@@ -6,7 +6,7 @@ export const DEFAULT_PREFIX = {
   helpWith: '🤝 I’m looking for help with',
   ama: '💬 Ask me about',
   contact: '📫 How to reach me',
-  resume: '📄 Know about my experiences',
+  Let's connect: '📲 Follow me or Connect with me to learn more about my experiences',
   funFact: '⚡ Fun fact',
   portfolio: '👨‍💻 All of my projects are available at',
   blog: '📝 I regularly write articles on',
