@@ -63,7 +63,7 @@ export const DEFAULT_LINK = {
   helpWith: '',
   portfolio: '',
   blog: '',
-  resume: '',
+  direct viewer engagement: '',
 };
 
 export const DEFAULT_SOCIAL = {
